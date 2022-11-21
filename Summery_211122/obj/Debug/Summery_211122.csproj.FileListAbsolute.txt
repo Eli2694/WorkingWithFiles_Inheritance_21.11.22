@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Summery_211122\Summery_211122\bin\Debug\Summery_211122.exe.config
+C:\Users\User\source\repos\Summery_211122\Summery_211122\bin\Debug\Summery_211122.exe
+C:\Users\User\source\repos\Summery_211122\Summery_211122\bin\Debug\Summery_211122.pdb
+C:\Users\User\source\repos\Summery_211122\Summery_211122\obj\Debug\Summery_211122.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Summery_211122\Summery_211122\obj\Debug\Summery_211122.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Summery_211122\Summery_211122\obj\Debug\Summery_211122.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Summery_211122\Summery_211122\obj\Debug\Summery_211122.exe
+C:\Users\User\source\repos\Summery_211122\Summery_211122\obj\Debug\Summery_211122.pdb
